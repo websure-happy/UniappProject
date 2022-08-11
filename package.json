@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "marked": "^2.1.3",
+    "uni-read-pages": "^1.0.5",
+    "uni-simple-router": "^2.0.7"
+  },
+  "name": "sf",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:hangang9558/duyi-uniapp-project-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
